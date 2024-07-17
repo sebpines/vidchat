@@ -26,8 +26,8 @@ jobs:
 
       - name: Set game configuration
         env:
-          APP_NAME: My Twine game
-          DESCRIPTION: My Twine game description
+          APP_NAME: VidChat.XXX
+          DESCRIPTION: A game of flirty banter for those looking for love and lust online. 
 
           # This must be of the format "N.N.N", where the N's are all numbers
           VERSION: 1.0.0
